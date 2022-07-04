@@ -1,0 +1,45 @@
+.box{
+    background-color: #fff;
+    color:#ff0505;
+    border: 10px solid #000;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: 64px;
+    font-family: "Finger Paint", sans-serif;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 8px;
+    cursor: pointer;
+}
+
+.box:hover{
+    background-color:#d0d0d0;
+
+}
+.x{
+    color:#ff0505;
+}
+
+.o{
+    color: #0026ed;
+}
+
+
+/* x click
+  text-decoration: none;
+  transition-duration: 0.5s;
+  background-color: red;
+  color: white;
+
+  -----
+
+  o click
+  text-decoration: none;
+  transition-duration: 0.5s;
+  background-color: blue;
+  color: white;
+
+*/
+

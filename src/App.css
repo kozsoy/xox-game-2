@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color:#f3b18c;
+  font-family: "Finger Paint" , sans-serif;
+}
